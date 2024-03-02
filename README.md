@@ -28,6 +28,9 @@
 
 ![2F_side](https://github.com/kdhqwe1030/THREE.js-Sturdy/assets/115572203/516f19c3-ae23-4be9-96a4-22db120946c7)
 
+
+![2F_wall](https://github.com/kdhqwe1030/THREE.js-Sturdy/assets/115572203/40d86931-e64c-4d9c-bc55-3fd40b5fd53e)
+
 ## Features
 - 캐릭터 이동 기능 구현
 - 3D모델을 활용한 도서관과 매우 흡사한 환경 
